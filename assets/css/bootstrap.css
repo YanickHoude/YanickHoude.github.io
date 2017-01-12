@@ -831,7 +831,7 @@ pre code {
   margin-left: -15px;
 }
 
-.row:before,
+.f:before,
 .row:after {
   display: table;
   content: " ";
